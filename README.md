@@ -1,7 +1,7 @@
 # xrp-vanity-generator
 Python MultiProccess for Generating XRP Vanity Address
 
-# Running in python 2.x>=
+# Running in python 2.x
 
 # Install Requirements
 
