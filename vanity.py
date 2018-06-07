@@ -80,7 +80,7 @@ def starter():
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Ripple Vanity Address Generator",
-        epilog="./vanity -n name -t 4 -v"
+        epilog="./vanity -n brian -p 4 -v"
     )
 
     # required argument
