@@ -12,5 +12,7 @@ pip install -r requirements.txt
 # Run
 
 ```
-python vanity.py --n brian -p 20 -v
+python vanity.py -n brian -p 50 -v
 ```
+
+search for "brian" withing running 50 proccess and enable verbose mode
